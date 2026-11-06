@@ -4,7 +4,9 @@ A Python-based agricultural management prototype demonstrating farm production a
 A Python-Based Farm Management Prototype
 
 Author: Cornelius-Snowhyt
+
 Project: Integrated Farm Operations and Digital Twin Automation
+
 Location: Maji Ndogo
 
 1.Project Overview
